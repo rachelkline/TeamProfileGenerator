@@ -1,0 +1,23 @@
+body{
+  background-image: url("triangle-mosaic.png");
+}
+
+.jumbotron {
+    background-image: url("cartographer-1920x1080.png");
+    font-size: 130%;
+}
+
+h1 {
+    color: white;
+    font-size: 350%;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.card {
+    margin: 10px;
+}
+
+h3{
+    color: green;
+
+}
