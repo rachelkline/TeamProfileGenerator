@@ -2,10 +2,11 @@
 //set up shared properties between engineer, manager, and intern
 
 class Employee{
-    constructor(name, email, id){
+    constructor(name, id, email){
         this.name = name;
-        this.email = email;
         this.id = id;
+        this.email = email;
+        
     }
     getName(){
         return this.name;
