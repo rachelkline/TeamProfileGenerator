@@ -4,20 +4,47 @@ body{
 
 .jumbotron {
     background-image: url("cartographer-1920x1080.png");
-    font-size: 130%;
+    font-size: 200%;
 }
 
-h1 {
+/* .card-header{
+    background-image: url("cartographer-1920x1080.png");
+} */
+
+.card{
+    outline-style: double;
+}
+
+.card-body{
+    background-image: url("fake-luxury-1920x1080.png");
+}
+
+h1{
     color: white;
     font-size: 350%;
     font-family: 'Press Start 2P', cursive;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: rgb(199, 177, 51);
+}
+
+h2{
+    color: rgb(75, 74, 74);
+    font-size: 140%;
+    font-family:  'Press Start 2P', cursive;
 }
 
 .card {
     margin: 10px;
 }
+.card-title{
+    text-align: center;
+}
 
 h3{
-    color: green;
+    color:green;
 
+}
+
+a{
+    color: rgb(18, 194, 18);
 }
