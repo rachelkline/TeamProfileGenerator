@@ -2,6 +2,10 @@
 
 ![Language](https://img.shields.io/static/v1?label=JavaScript&message=language&color=brightgreen)
 
+## Application Output Example
+![IMAGE](TEAMPROFILE.png)
+
+ ---
 ## Description
 
   *The what, why, and how:*
@@ -18,12 +22,12 @@
 
 Click the play button to be redirected to the video tutorial.
 
-[![IMAGE](Develop/assets/video.png)](https://drive.google.com/file/d/1j9GrG6QTUkGiJMAumKA4bWCoDt3iasW_/preview) 
+[![IMAGE](video.png)](https://drive.google.com/file/d/1QzEQiVjsyi7FE2DtpX9P8EV5hYKMAZW1/view) 
 
   ---
 ## Table of Contents
 
-
+  - [Applicaton Output Example](#application-output-example)
   - [Description](#description)
   - [Video Tutorial](#video-tutorial)
   - [Usage](#usage)
